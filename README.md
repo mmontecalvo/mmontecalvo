@@ -1,16 +1,22 @@
-### Hi there 👋
+### ¡Hola! Mi nombre es Matias 👋🙋🏻‍♂️
 
-<!--
-**mmontecalvo/mmontecalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de desarrollo web, estoy realizando la carrera de `Desarrollador Web Full Stack` en Coderhouse, y además me capacito de forma autodidácta.
+Actualmente estoy centrado en el `front-end`, y estoy buscando mi primer empleo en dicha área.
 
-Here are some ideas to get you started:
+## Conocimientos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Git
+* HTML
+* CSS / SASS
+* Bootstrap
+* JavaScript
+* React Js.
+* NPM
+* Material UI
+* Figma
+
+## Contacto:
+
+✉ mati.montecalvo@gmail.com
+
+🤵🏻 https://www.linkedin.com/in/matias-montecalvo-web-developer/
